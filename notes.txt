@@ -1,0 +1,5 @@
+using passport.js for the login auth because it is a node js library that allows users to login with email or any social account
+using passport-local that helps users login with email and password
+and express session to store sessions for users that want to login and create account
+express-flash helps us display flash messages like errror
+then install npm method override to implement logout
